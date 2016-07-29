@@ -1,0 +1,1 @@
+intersectBed -abam Mut-F2-Rep1_CGTACG_L007.STAR.10.45.Aligned.sortedByCoord.out.bam -b ../L1Location/L1_Mouse_merge_sort_ORF2only-bothORF.bed > Mut-F2-Rep1_CGTACG_L007.STAR.10.45.bO.O2.bam
